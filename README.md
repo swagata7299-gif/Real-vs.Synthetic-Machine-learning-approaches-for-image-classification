@@ -10,29 +10,28 @@ Here’s the **final README.md** with the certificate embedded:
 [![Published at ICICKE-2025](https://img.shields.io/badge/Published-ICICKE--2025-blue)](https://www.overleaf.com/project/66b87059e326507eefd27af9)
 
 This repository contains the source code and experiments for the paper:  
-**Integrating Advanced Feature Extraction and LIME for Real and AI Generated Image Classification**  
+Integrating Advanced Feature Extraction and LIME for Real and AI Generated Image Classification**  
 Presented at the **International Conference on Intelligent Computing and Knowledge Extraction (ICICKE-2025)**  
 CMR University, Bengaluru, India | June 6–7, 2025
 
----
+
 
  📰 Publication
 
-**Citation:**
-```
+Citation:
+
 
 Malik, S. (2025). Integrating Advanced Feature Extraction and LIME for Real and AI Generated Image Classification.
 Proceedings of the International Conference on Intelligent Computing and Knowledge Extraction (ICICKE-2025),
 CMR University, Bengaluru, India, June 6–7, 2025.
 
-```
+
 
 📄 [Read Paper (Overleaf – Temporary Link)](https://www.overleaf.com/project/66b87059e326507eefd27af9)  
 🌐 [Conference Website](YOUR_CONFERENCE_LINK_HERE)
 
 > Note:This Overleaf link will be replaced with the official DOI / IEEE Xplore link once published.
 
----
 
  📌 Abstract
 
