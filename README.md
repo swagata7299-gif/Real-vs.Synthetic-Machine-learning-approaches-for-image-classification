@@ -47,12 +47,7 @@ CMR University, Bengaluru, India, June 6–7, 2025.
 
 ```
 
-📄 [Read Paper (Overleaf – Temporary Link)](https://www.overleaf.com/project/66b87059e326507eefd27af9)  
-🌐 [Conference Website](YOUR_CONFERENCE_LINK_HERE)
-
-> **Note:** This Overleaf link will be replaced with the official DOI or IEEE Xplore link once the paper is published.
-
----
+📄 [Read Paper [Overleaf – (https://www.overleaf.com/project/66b87059e326507eefd27af9)] 
 
 ## ​ Abstract
 
