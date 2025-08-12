@@ -1,11 +1,11 @@
-Perfect — I’ll insert your **ICICKE 2025 certificate image** into the “Recognition” section so it looks professional in GitHub.
 
-Here’s the **final README.md** with the certificate embedded:
 
----
 
-```markdown
-# Real vs. Synthetic: Machine Learning Approaches for Image Classification
+
+
+
+
+ Real vs. Synthetic: Machine Learning Approaches for Image Classification
 
 [![Published at ICICKE-2025](https://img.shields.io/badge/Published-ICICKE--2025-blue)](https://www.overleaf.com/project/66b87059e326507eefd27af9)
 
@@ -93,15 +93,20 @@ image authenticity classification
 
 - [GitHub Repository](https://github.com/swagata7299-gif/Real-vs.Synthetic-Machine-learning-approaches-for-image-classification)  
 - [Paper (Temporary Overleaf Link)](https://www.overleaf.com/project/66b87059e326507eefd27af9)  
-- [Conference Details](YOUR_CONFERENCE_LINK_HERE)
+- Conference Details
+
+International Conference on Intelligent Computing and Knowledge Extraction (ICICKE-2025)**  
+CMR University, Bengaluru, India | June 6–7, 2025  
+More info: [ICICKE-2025 Overview](https://10times.com/e1h3-h3s5-2xrz-z) :contentReference[oaicite:1]{index=1}
+
 
  🏅 Recognition
 
-This work was **presented at ICICKE-2025** and recognized by **CMR University** & **IEEE Bangalore Section**.
+This work was presented at ICICKE-2025 and recognized by CMR University & IEEE Bangalore Section**.
 
 ![ICICKE 2025 Certificate](certificate.png)
 
-> The certificate above acknowledges the presentation of our paper at **ICICKE-2025**.
+> The certificate above acknowledges the presentation of our paper at ICICKE-2025.
 
 
 📜 License
