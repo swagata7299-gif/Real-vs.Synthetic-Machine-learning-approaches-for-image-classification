@@ -20,9 +20,9 @@ better. This integrated approach aims to build an accurate and
 interpretable methodology to manage the increasing challenge of
 image authenticity classification
 
-Great! Here's your updated `README.md`, now incorporating your Overleaf project link and styled with straightforward Markdown formatting. Once your paper is officially published with a DOI or reflected in IEEE Xplore, you can easily swap out the Overleaf link with the permanent publication link.
 
----
+
+
 
 ```markdown
 # Real vs. Synthetic: Machine Learning Approaches for Image Classification
@@ -104,16 +104,14 @@ Our approach leverages deep learning architectures, enhanced preprocessing, and 
 
 ## ​ Recognition
 
-This work was **presented at ICICKE-2025** and recognized by **CMR University** & **IEEE Bangalore Section**.
+This work was presented at ICICKE-2025 and recognized by **CMR University** & **IEEE Bangalore Section**.
 
 ---
 
 ## ​ License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-```
 
----
 
 
 
